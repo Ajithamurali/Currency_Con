@@ -1,4 +1,4 @@
-#Currency Convertor
+# Currency Convertor
 Java Project for Evaluationg the Equivalent value of Indian Currency to Popular Currency value.Know Value and Plan accordingly!!!
 
 <b>Author</b>    :  Ajitha Muralidharan
@@ -7,7 +7,9 @@ Java Project for Evaluationg the Equivalent value of Indian Currency to Popular 
 Previews are displayed here,
 <br>
 <center>
-<img src="Prototype/Preview2.png" width="300" height="300"/>
-<img src="Prototype/Preview3.png" width="300" height="300"/></center>
+  <table>
+    <tr><td>
+      <img src="Prototype/Preview2.png" width="300" height="300"/></td>
+      <td><img src="Prototype/Preview3.png" width="300" height="300"/></td></tr></table></center>
 
 Feel free to suggest improvements
