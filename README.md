@@ -1,7 +1,7 @@
 # Currency Convertor
 Java Project for Evaluationg the Equivalent value of Indian Currency to Popular Currency value.Know Value and Plan accordingly!!!
 
-<b>Author</b>    :  Ajitha Muralidharan
+<b>Author</b>    :  Ajitha Muralidharan<br>
 <b>LinkedIn</b>  :  <a href="https://www.linkedin.com/in/ajitha-muralidharan-0aa076190">  Ajitha_dharan</a>
 
 Previews are displayed here,
